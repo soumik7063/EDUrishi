@@ -20,7 +20,7 @@
 }
 #eduimg{
     position: relative;
-    right: +760px;
+    right: +870px;
 }
 
 .container nav a{
@@ -271,6 +271,7 @@ nav i{
         rgb(104, 104, 241),
         white
     );
+    transition: 10s;
 }
 .contact{
     display: flex;

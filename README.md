@@ -12,3 +12,6 @@ The curriculum itself plays a pivotal role. It should be engaging, relevant, and
 The pursuit of quality education is a continuous journey, demanding ongoing evaluation and adaptation. Regularly assessing learning outcomes, incorporating innovative approaches, and fostering a culture of collaboration are crucial to ensure that education remains relevant and impactful.
 
 We aim to address this issue of providing quality education to the underprivileged section of the society after their school hours. This would not only aim to make them enjoy their learning process but would also aim to address the future job opportunities that they could avail and improve the poverty levels of our country.
+
+#
+![Sustainable_Development_Goal_04QualityEducation svg](https://github.com/soumik7063/EDUrishi/assets/145036560/cddfdfc5-8e5e-42b6-b5a3-ec4bf49ade2f)
